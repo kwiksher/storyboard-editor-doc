@@ -1,4 +1,4 @@
-# storyboard editor plugin
+# storyboard editor plugin for Adobe XD
 Binaries & XD template file
   * https://storyboard.ink/download
 
